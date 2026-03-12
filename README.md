@@ -48,7 +48,6 @@ Open `.env` and replace `your_groq_api_key_here` with your actual Groq API key:
 ```env
 VITE_GROQ_API_KEY=gsk_your_actual_key_here
 ```
-> ⚠️ **Never commit your `.env` file.** It's already in `.gitignore`.
 
 ### 4. Run the dev server
 ```bash
